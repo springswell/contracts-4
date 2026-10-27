@@ -135,3 +135,5 @@ public issues.
 ## License
 
 [MIT](LICENSE)
+
+<!-- fix: issue #173 - [Bug] Contract reads expired ledger entry without error -->
